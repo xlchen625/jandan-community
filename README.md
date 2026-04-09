@@ -81,5 +81,5 @@ pnpm dev
 
 ## 项目截图
 
-![首页](https://raw.githubusercontent.com/xlchen625/jandan-community/main/docs/home.png)
-![后台管理](https://raw.githubusercontent.com/xlchen625/jandan-community/main/docs/admin.png)
+![首页](docs/home.png)
+![后台管理](docs/admin.png)
